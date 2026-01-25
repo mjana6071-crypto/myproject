@@ -1,0 +1,9 @@
+h1{
+    color: blueviolet;
+    justify-content: center;
+    text-align: center;
+    margin: 50%;
+    display:flex;
+    flex-wrap: wrap;
+    gap:8px;
+}
